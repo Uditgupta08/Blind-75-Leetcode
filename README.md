@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0322-coin-change) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
@@ -45,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
