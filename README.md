@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0322-coin-change) |
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/1250-longest-common-subsequence) |
@@ -16,9 +17,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0322-coin-change) |
 ## Breadth-First Search
@@ -32,5 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 | [1250-longest-common-subsequence](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/1250-longest-common-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/Uditgupta08/Blind-75-Leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
